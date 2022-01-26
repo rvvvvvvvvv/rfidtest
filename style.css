@@ -3,7 +3,9 @@ h1
   font-style:normal;
   color: black;
   text_decoration:underline;
-  text-align:center;}
+  text-align:center;
+  margin: 10% 0 0 100px;
+}
 
 h3 { color: red; }
 .encadrer-un-contenu{
