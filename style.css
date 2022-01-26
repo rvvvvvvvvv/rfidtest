@@ -9,8 +9,7 @@ h3 { color: red; }
 .encadrer-un-contenu{
   border: 5px solid black; 
   padding: 30px;
-  height:100px;
-  width:100px;
-  background-color:blue;
+
+  background-color:#00ffff;
   
 } 
