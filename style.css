@@ -1,2 +1,9 @@
+h1
+{ font-family:arial;
+  font-style:normal;
+  color: black;
+  text_decoration:underline;
+  text-align:center;}
+
 h3 { color: red; }
 .encadrer-un-contenu{ border: 5px solid black; padding: 30px; } 
