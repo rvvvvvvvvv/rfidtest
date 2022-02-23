@@ -13,8 +13,8 @@ h1 {
 h3 { color: red; }
 
 .encadrer-un-contenu {
-  border: 5px solid black; 
-  padding: ;
+  border: 3px solid #054666;
+  width: 250px;
   background-color:#007399;
 margin-top: 3%;
 margin-left: 40%;
