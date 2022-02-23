@@ -1,5 +1,5 @@
 body {
-  background-color: #077062;
+  background-color: #005470;
 }
 
 h1 {
@@ -15,6 +15,9 @@ h3 { color: red; }
 .encadrer-un-contenu {
   border: 5px solid black; 
   padding: ;
-  background-color:#00ffff;
-  margin: 10% 0 30% ;
+  background-color:#007399;
+margin-top: 3%;
+margin-left: 40%;
+margin-right: 40%;
+margin-bottom:0%;
 }
